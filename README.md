@@ -8,3 +8,4 @@ This a Unity UWP WinML C# HoloLens app that shows how to do preprocessing of ima
 - [Windows 10 - Build 17763 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
 - [Windows SDK - Build 17763 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
 - [Unity 2018.3 or higher](https://unity3d.com/get-unity/download/archive)
+- [Win2D](http://microsoft.github.io/Win2D/html/Introduction.htm)
